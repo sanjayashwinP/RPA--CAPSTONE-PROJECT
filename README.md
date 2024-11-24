@@ -109,6 +109,13 @@ To create and automate the process of generating a Google Form and sending the f
 
 ![image](https://github.com/user-attachments/assets/d86985ac-e73d-4f22-83f0-6af883fe304b)
 
+## Output:
+![image](https://github.com/user-attachments/assets/b15e21a3-d05a-4075-9c8c-7382c5a27d45)
+![image](https://github.com/user-attachments/assets/36a21597-7eef-4a12-9c6c-4685375f6fd4)
+![image](https://github.com/user-attachments/assets/f8dd0aa1-0b67-45c1-ab4e-860005e39928)
+![image](https://github.com/user-attachments/assets/cf6de456-b29b-43ae-9bac-b79c082b0bcc)
+![image](https://github.com/user-attachments/assets/ec8f3d7c-b948-447e-bd12-d61b17f37096)
+
 
 
 ### **Result**:
